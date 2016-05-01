@@ -1,1 +1,1 @@
-# Coin Machine lab for OOP
+# Converter lab for OOP
